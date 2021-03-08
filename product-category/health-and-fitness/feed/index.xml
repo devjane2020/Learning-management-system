@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Health and Fitness &#8211; LMsystem.</title>
+	<atom:link href="https://devjane2020.github.io/Learning-management-system/product-category/health-and-fitness/feed/" rel="self" type="application/rss+xml" />
+	<link>https://devjane2020.github.io/Learning-management-system</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Mar 2021 16:59:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<item>
+		<title>Health and Fitness</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[Learning management system]]></dc:creator>
+		<pubDate>Fri, 05 Mar 2021 16:59:37 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Showing the single result Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Sale! Nutrition: Build Your Perfect Diet And Meal Plan &#36;100 &#36;75 Add to cart]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Showing the single result</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Shop order">
+					<option value="menu_order"  selected='selected'>Default sorting</option>
+					<option value="popularity" >Sort by popularity</option>
+					<option value="rating" >Sort by average rating</option>
+					<option value="date" >Sort by latest</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-4">
+<li class="product type-product post-27 status-publish first instock product_cat-health-and-fitness has-post-thumbnail sale virtual sold-individually taxable purchasable product-type-simple">
+	<a href="https://devjane2020.github.io/Learning-management-system/product/nutrition-build-your-perfect-diet-and-meal-plan/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img width="300" height="300" src="https://devjane2020.github.io/Learning-management-system/wp-content/uploads/2021/03/1_0002_18-1-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://devjane2020.github.io/Learning-management-system/wp-content/uploads/2021/03/1_0002_18-1-1-300x300.jpg 300w, https://devjane2020.github.io/Learning-management-system/wp-content/uploads/2021/03/1_0002_18-1-1-150x150.jpg 150w, https://devjane2020.github.io/Learning-management-system/wp-content/uploads/2021/03/1_0002_18-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Nutrition: Build Your Perfect Diet And Meal Plan</h2>
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>100</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>75</bdi></span></ins></span>
+</a><a href="https://devjane2020.github.io/Learning-management-system/product/nutrition-build-your-perfect-diet-and-meal-plan/?add-to-cart=27" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="27" data-product_sku="" aria-label="Add &ldquo;Nutrition: Build Your Perfect Diet And Meal Plan&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
